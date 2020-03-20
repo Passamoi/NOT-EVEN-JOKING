@@ -2,7 +2,7 @@
 title: NOT EVEN JOKING
 description: "Lowkey portefolio"
 baseurl: "/NOT-EVEN-JOKING" # for test: remove string '/space-jekyll-template' to ''
-url: "https://passamoi.github.io/NOT-EVEN-JOKING/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Pierre
