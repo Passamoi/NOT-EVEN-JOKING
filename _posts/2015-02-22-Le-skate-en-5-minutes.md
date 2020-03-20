@@ -9,6 +9,9 @@ description: ''
 categories:
 - ''
 ---
+
+
+
 <img scr="https://dopekultur.files.wordpress.com/2015/02/brief-history-skateboarding.jpg">
 
 **Depuis son origine durant les  années 50 à aujourd’hui. Le skateboard est passé par un bon nombre de  phases. Marginalisé, détesté, interdit et finalement célébré, le  skateboard a une histoire riche en rebondissements, cette vidéo s’applique à les retracer avec humour.**
