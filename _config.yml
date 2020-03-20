@@ -1,8 +1,8 @@
 # Site settings
 title: Pierre not even joking
 description: "Lowkey portefolio"
-baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "https://passamoi.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
+url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Pierre
