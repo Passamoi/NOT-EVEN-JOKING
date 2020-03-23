@@ -16,7 +16,7 @@ _Initialement publié sur DopeKultur_
 
 **Le skate est le sport de glisse  urbain par définition, à l’opposé du surf et du snowboard, qui se  veulent plus en contact avec notre belle planète bleue. Aujourd’hui, il  est possible de renouer le lien qui nous sépare de nos racines, grâce  ces planches 100% écologique, ou presque.**  
 
-Deux frères berlinois, **Marco** et **[Sven Gabriel](https://svengabriel.com/149633/5290915/projects/foerster-skateboard-by-marco-sven)**, ont construit un _cruiser_ en bois, mais vraiment en bois, **en morceau d’arbre** pour être exact. La tranche est même encore recouverte d’écorce. Comme un pied de nez à l’industrialisation dégénérée de nos sociétés, le duo  allemand a conçu le **_Förster Skateboard_ (littéralement le Skateboard forestier)** avec leurs petites mimines, à l’ancienne.  À partir, d’une seule pièce de bois brute, taillée, poncée et percée, sur laquelle a été fixée une paire de trucks équipés de larges roues en gomme.
+Deux frères berlinois, **Marco** et **[Sven Gabriel]**(https://svengabriel.com/149633/5290915/projects/foerster-skateboard-by-marco-sven), ont construit un _cruiser_ en bois, mais vraiment en bois, **en morceau d’arbre** pour être exact. La tranche est même encore recouverte d’écorce. Comme un pied de nez à l’industrialisation dégénérée de nos sociétés, le duo  allemand a conçu le **_Förster Skateboard_ (littéralement le Skateboard forestier)** avec leurs petites mimines, à l’ancienne.  À partir, d’une seule pièce de bois brute, taillée, poncée et percée, sur laquelle a été fixée une paire de trucks équipés de larges roues en gomme.
 
 ## FRENCH NATURAL SKATEBOARD
 ![Natural-skateboard](https://i.ibb.co/vXFk50H/natural-skateboarding.jpg)  
