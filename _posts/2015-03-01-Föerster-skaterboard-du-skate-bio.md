@@ -12,7 +12,7 @@ categories:
 
 _Initialement publié sur DopeKultur_  
 
-![foersterskate]https://i.ibb.co/yVD83KC/foerster-skateboard-04.jpg
+![foersterskate](https://i.ibb.co/yVD83KC/foerster-skateboard-04.jpg)
 
 **Le skate est le sport de glisse  urbain par définition, à l’opposé du surf et du snowboard, qui se  veulent plus en contact avec notre belle planète bleue. Aujourd’hui, il  est possible de renouer le lien qui nous sépare de nos racines, grâce  ces planches 100% écologique, ou presque.**  
 
