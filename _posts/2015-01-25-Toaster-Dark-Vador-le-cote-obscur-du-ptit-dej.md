@@ -10,9 +10,6 @@ categories:
 - ''
 ---
 
-
-_Publié sur DopeKultur_  
-
 _Initialement publié sur DopeKultur_  
 
 ![toast darth vader](https://i.ibb.co/34tnktt/darth-vader-toaster-12056.jpg)  
